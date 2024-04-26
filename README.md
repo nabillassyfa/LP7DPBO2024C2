@@ -1,5 +1,5 @@
 ### LP7DPBO2024C2
-#### Saya Nabilla Assyfa Ramadhani [2205297] mengerjakan LP7 dalam mata Desain dan Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Nabilla Assyfa Ramadhani [2205297] mengerjakan LP7 dalam mata Desain dan Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Desain Program
 Program ini menggunakan 6 buah kelas, yang terdiri dari :
@@ -25,7 +25,7 @@ Program ini menggunakan 6 buah kelas, yang terdiri dari :
 # Dokumentasi Program
 
 #### Tampilan layar pertama
-![alt text](Screenshot/start.png)
+![alt text](Screenshot/Start.png)
 #### Tampilan saat game dimainkan
 ![alt text](Screenshot/Game.png)
 #### Tampilan saat game berakhir
